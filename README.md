@@ -7,7 +7,7 @@ Hulk.py  es un script desarrollado en el lenguaje python la versión 27
 sirve para hacer denegación de servidores web .
 se puede ejecutar desde la consola  de windows como también desde la consola de linux.
 En Termux, usamos el paquete Hulk para el ataque DoS. Hulk es una herramienta muy útil para el ataque DoS.
-- https://www.lpericena.tk/2019/05/denegacion-deservidores-web-con-el.html
+- https://lpericena.blogspot.com/2019/05/denegacion-deservidores-web-con-el.html
 - Requisitos
 
 Sistemas operativo windows,Linux y Termux.
